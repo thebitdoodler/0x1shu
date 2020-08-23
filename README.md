@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Mentoring / Spekaer**
 - 🤔 I’m looking for help with **Red Teaming**
 - 💬 Ask me about anytime
-- 📫 How to reach me: **das.anshuman2018@gmail.com**
+- 📫 How to reach me: **anshuman.11701200@gmail.com*
 - 😄 Pronouns: **HE/HIM/HIS**
 - ⚡ Fun fact: **Making you laugh :(**
 
