@@ -5,17 +5,20 @@
 
 Here are some ideas to get you started:
 -->
-## Hi There :wave:
+### Hi There :wave: I am an Offensive Security Researcher
 
 - 🔭 I’m currently working on **Red Teamming & WebApp Pentesting**
 - 🌱 I’m currently learning **Python Scripting, Exploit Development**
-- 👯 I’m looking to collaborate on **Mentoring / Spekaer**
+- 👯 I’m looking to collaborate on **Mentoring / Speaker**
 - 🤔 I’m looking for help with **Red Teaming**
 - 💬 Ask me about anytime
 - 📫 How to reach me: **0x48iffy@protonmail.com**
 - 😄 Pronouns: **HE/HIM/HIS**
-- ⚡ Fun fact: **Making you laugh :(**
+- ⚡ Fun fact: **Still finding out...**
 
-YT channel :
+### 📌 Skills
+<img src="https://img.shields.io/badge/-Linux-blue.svg"> <img src="https://img.shields.io/badge/-Python-success.svg"> <img src="https://img.shields.io/badge/-EthicalHacking-informational.svg"> <img src="https://img.shields.io/badge/-WebApps Pentesting-red.svg"> <img src="https://img.shields.io/badge/-Bash-success.svg">
 
-![YT](https://raw.githubusercontent.com/0x48iffy/ethicalhackingcourse/master/android-icon-48x48.png) [Learn With 0x48iffy](https://www.youtube.com/channel/UCrhiDu1hD5-_osh_r4FX8EQ)
+<img src="https://github-readme-stats.vercel.app/api?username=0x48iffy&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="80%"/>
+
+Follow me on : <img src="https://img.shields.io/twitter/follow/0x48iffy?label=Follow&style=social">
