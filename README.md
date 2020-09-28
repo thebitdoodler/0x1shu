@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 ### Hey There :wave: I am an Offensive Security Researcher
-<img src="https://avatars1.githubusercontent.com/u/49448018?s=460&u=59bf8269b8e0a578949e5b45c39d45d95ad5d35f&v=4" width="18%"/>
+<img src="https://raw.githubusercontent.com/0x48iffy/private/master/finalmee.png" width="18%"/>
 
 - 🔭 I’m currently working on **Red Teamming ,Web Application & Network Penetration Testing**
 - 🌱 I’m currently learning **Python Scripting, Exploit Development**
