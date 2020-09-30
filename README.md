@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-### Hey There :wave: I am an Offensive Security Researcher
+### Hey There :wave: I am an Offensive Security Researcher & Infosec Trainer
 <img src="https://raw.githubusercontent.com/0x48iffy/private/master/github.png" width="18%"/>
 
 - 🔭 I’m currently working on **Red Teamming ,Web Application & Network Penetration Testing**
