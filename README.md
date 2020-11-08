@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Mentoring / Speaker**
 - 🤔 I’m looking for help with **Red Teaming**
 - 💬 Ask me about anytime
-- 📫 How to reach me: **hey@anshumandas.tech**
+- 📫 How to reach me: **0xanshuman@pm.me**
 - 😄 Pronouns: **HE/HIM/HIS**
 - ⚡ Fun fact: **Still finding out...**
 
