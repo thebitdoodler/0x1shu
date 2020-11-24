@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 **Follow me on** : <img src="https://img.shields.io/twitter/follow/0xAnshuman?label=Follow&style=social">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAnshuman&langs_count=8&hide=html,css)](https://github.com/0x48iffy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xAnshuman&langs_count=8&hide=html,css)](https://github.com/0xAnshuman/github-readme-stats)
