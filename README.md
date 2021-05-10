@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-### Hey There :wave: I am a small village boi dreamed to be Offensive Security Researcher & to simplify security concepts and I am LIVING my dream now. 
+### Hey There :wave: I am a small village boi dreamed to be Offensive Security Researcher & I am LIVING my dream and SIMPLYFING security concepts now. 
 <img src="https://raw.githubusercontent.com/0x1shu/private/master/github.png" width="18%"/>
 
 - 🔭 I’m currently working on **Red Teamming ,Web Application & Network Penetration Testing**
