@@ -4,18 +4,8 @@
 **0x48iffy/0x48iffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
-### Hey There :wave: I am a small village boi dreamed to be Offensive Security Researcher & I am LIVING my dream and SIMPLYFING security concepts now. 
-<img src="https://raw.githubusercontent.com/0x1shu/private/master/github.png" width="18%"/>
-
-- 🔭 I’m currently working on **Red Teamming ,Web Application & Network Penetration Testing**
-- 🌱 I’m currently learning **Python Scripting, Exploit Development**
-- 👯 I’m looking to collaborate on **Mentoring / Speaker**
-- 🤔 I’m looking for help with **Red Teaming**
-- 💬 Ask me about anytime
-- 📫 How to reach me: **heyanshuman@protonmail.com**
-- 😄 Pronouns: **HE/HIM/HIS**
-- ⚡ Fun fact: **Still finding out...**
+--> 
+<img src="https://raw.githubusercontent.com/0x1shu/blog/cf7ac496b13b2a59e24b669b009077ec380203eb/images/abtme.svg?token=ALZIIUWECIRIFP53KEMC3RLATGGPC" width="100%"/>
 
 ### 📌 Skills
 <img src="https://img.shields.io/badge/-Linux-blue.svg"> <img src="https://img.shields.io/badge/-Python-success.svg"> <img src="https://img.shields.io/badge/-EthicalHacking-informational.svg"> <img src="https://img.shields.io/badge/-WebApps Pentesting-red.svg"> <img src="https://img.shields.io/badge/-Bash-success.svg">
