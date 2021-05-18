@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 --> 
-<img src="https://raw.githubusercontent.com/0x1shu/blog/main/images/abtme.png?token=ALZIIUR43G75Q423IRVXXIDAULF5K" width="100%"/>
+<img src="https://raw.githubusercontent.com/0x1shu/blog/main/images/abtme.png?token=ALZIIUXLCHB2KWPDHI3JR6TAVVDPY" width="100%"/>
 
 ### 📌 Skills
 <img src="https://img.shields.io/badge/-Linux-blue.svg"> <img src="https://img.shields.io/badge/-Python-success.svg"> <img src="https://img.shields.io/badge/-EthicalHacking-informational.svg"> <img src="https://img.shields.io/badge/-WebApps Pentesting-red.svg"> <img src="https://img.shields.io/badge/-Bash-success.svg">
