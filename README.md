@@ -5,7 +5,15 @@
 
 Here are some ideas to get you started:
 --> 
-<img src="https://raw.githubusercontent.com/0x1shu/blog/main/images/abtme.png?token=ALZIIUXLCHB2KWPDHI3JR6TAVVDPY" width="100%"/>
+# root@github:~$ whoami
+:raising_hand_man: I am 0x1shu aka Anshuman.
+
+:mag_right: Wannabe Offensive Security Researcher
+
+✨ Love to simplify security concepts
+
+
+
 
 ### 📌 Skills
 <img src="https://img.shields.io/badge/-Linux-blue.svg"> <img src="https://img.shields.io/badge/-Python-success.svg"> <img src="https://img.shields.io/badge/-EthicalHacking-informational.svg"> <img src="https://img.shields.io/badge/-WebApps Pentesting-red.svg"> <img src="https://img.shields.io/badge/-Bash-success.svg">
