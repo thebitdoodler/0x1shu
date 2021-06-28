@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 
 :mag_right: Wannabe Offensive Security Researcher
 
-✨ Love to simplify security concepts
+✨ Love to simplify security concepts. 
+ > To know how do I do that  visit -> [Simplified Zines](https://simplifiedzines.online)
 
 
 
