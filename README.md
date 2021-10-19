@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 # root@github:~$ whoami
 :raising_hand_man: I am 0x1shu aka Anshuman.
 
-:mag_right: Wannabe Offensive Security Researcher
+:mag_right: Wannabe Security Researcher who loves OSINT & HUMINT
 
 ✨ Love to simplify security concepts. 
  > To know how do I do that  visit -> [Simplified Zines](https://simplifiedzines.online)
