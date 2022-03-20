@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 :mag_right: Wannabe Security Researcher who loves OSINT & HUMINT
 
 ✨ Love to simplify security concepts. 
- > To know how do I do that  visit -> [Simplified Zines](https://simplifiedzines.online) & [Simplified Blog](https://blog.simplifiedzines.online)
+ > To know how do I do that  visit -> [Security Zines](https://securityzines.com)
 
 
 
