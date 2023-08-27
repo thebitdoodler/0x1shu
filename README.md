@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 --> 
 # root@github:~$ whoami
-:raising_hand_man: I am 0x1shu aka Anshuman.
+:raising_hand_man: I am thebitdoodler aka Anshuman.
 
 :mag_right: Wannabe Security Researcher who loves Threat Intel 🧠
 
@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0x1shu&" alt="0x1shu" /></p>
 
-**Follow me on** : <img src="https://img.shields.io/twitter/follow/0x1shu?label=Follow&style=social">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0x1shu&label=Profile%20views&color=0e75b6&style=flat" alt="0x1shu" /> </p>
+**Follow me on** : <img src="https://img.shields.io/twitter/follow/thebitdoodler">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0x1shu&label=Profile%20views&color=0e75b6&style=flat" alt="thebitdoodler" /> </p>
